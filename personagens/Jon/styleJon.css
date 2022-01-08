@@ -5,7 +5,7 @@
 }
 /*PAGINA DE ESCOLHAS JON */
 .jon_body{
-    background-image: url("./fundoJon.jpg");
+    background-image: url("./imagensJon/fundoJon.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position:center ;
@@ -71,7 +71,7 @@ a{
 }
 /*PAGINA VITORIA*/
 .jonvitoria_body{
-    background-image: url("./vitoriaJon.jpeg");
+    background-image: url("./imagensJon/vitoriaJon.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position:center ;
@@ -94,7 +94,7 @@ a{
 }
 /*PAGINA GAME OVER JON  */
 .gameroverjon_body{
-    background-image: url("./gameOverJon.jpg");
+    background-image: url("./imagensJon/gameOverJon.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position:center ;
