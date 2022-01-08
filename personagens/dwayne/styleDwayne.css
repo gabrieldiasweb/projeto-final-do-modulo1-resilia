@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box 0;
+}
+/*PAGINA DE ESCOLHAS JON */
+.dwayne_body{
+    background-image: url("./imagensDwayne/fundoDwayne.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center ;
+    width: 100%;
+    height: 100vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.dwayne_main{
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    text-decoration: none;
+}
+.dwayne_tituloprincipal {
+    background: white;
+    border-radius: 10px;
+    opacity: 0.7;
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.dwayne_paragrafo{
+    background: white;
+    border-radius: 10px;
+    opacity: 0.7;
+    font-size: 28px;
+    text-align: center;
+    width: 50%;
+    text-transform: uppercase;
+}
+.dwayne_escolhas li{
+    background: white;
+    border-radius: 10px;
+    opacity: 0.8;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 10px 0 10px 0;
+    padding: 10px;
+    text-align: center;
+}
+.dwayne_button{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    
+}
+.dwayne_button:active{
+    background: chartreuse;
+}
+.dwayne_button:hover{
+    font-size: 35px;
+}
+/*PAGINA VITORIA*/
+.dwaynevitoria_body{
+    background-image: url("./imagensDwayne/vitoriaDwayne.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center ;
+    width: 100%;
+    height: 100vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+.vitoria{
+    background: white;
+    border-radius: 10px;
+    opacity: 0.7;
+    font-size: 20px;
+    text-align: center;
+    width: 50%;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+/*PAGINA GAME OVER JON  */
+.gameroverdwayne_body{
+    background-image: url("./imagensDwayne/gameOverDwayne.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center ;
+    width: 100%;
+    height: 100vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.titulogameoverdwayne{
+    background: white;
+    opacity: 0.7;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 50px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.gameoverdwayne_paragrafo{
+    color: white;
+    background:black;
+    opacity: 0.7;
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    width: 50%;
+}
+.botaovoltarinicio{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
+    box-shadow: 3px 4px 2px #000000;
+}
+
+/*rodape*/
+.rodape{
+    width: 100%;
+    background: white;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+}
