@@ -1,0 +1,77 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+background-image: url(fundo.jpg.jpg);
+background-repeat: no-repeat;
+background-size: 100%;
+}
+.imagemfundo{
+    background-size: 100%;
+}
+.tituloprincipal{
+    text-align: center;
+    padding: 30px;
+    font-weight: bold;
+    font-size: 50px;
+    color: white;
+    background: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.personagens{
+    width: 940px;
+    margin: 0 auto;
+}
+.lutadores{
+    width: 250px;
+    height: 500px;
+}
+.personagens li{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    padding: 50px 0;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    margin-top: 30px;
+    border: 2px #FFFFFF solid;
+    border-radius: 10px;
+    color: white;
+}
+.personagens li:hover{
+    border-color: red;
+}
+.personagens li:active{
+    border-color: seagreen;
+}
+.personagens li:hover h2{
+    font-size: 35px;
+}
+.personagens h2{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.personagens p{
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.personagens{
+    margin-bottom: 20px;
+
+}
+
+/*RODAPÉ*/
+.rodape{
+    width: 100%;
+    background: white;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    padding: 30px 0 10px 0;
+}

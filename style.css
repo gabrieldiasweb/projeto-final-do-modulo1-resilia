@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box 0;
+}
+
+.wallpaperhome{
+    width: 100%;
+}
+/* pagina inicial*/
+.home{
+width: 100%;
+
+}
+.tituloprincipal{
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    width: 600px;            /*lagura do texto*/
+    height: 80px;            /* altura do texto*/ 
+    padding: 0;
+    margin: -40px 0 0 -300px; /* margem à esquerda e ao topo metade da medida do texto*/
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 100px;
+    text-shadow: 3px 5px rgb(19, 19, 18);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+.play button{
+    position:absolute;
+    z-index:1;
+    top: 55%;
+    left:50%;
+    width: 200px;              /* largura para o botão */
+    height: 100px;             /* altura para o botão */
+    padding:0;
+    margin:-50px 0 0 -100px;   /* margem à esquerda e ao topo metade da medida do botão */
+    border:0 none;
+    font-weight: bold;
+    text-transform: uppercase;
+    box-shadow: 3px 4px 2px #000000;
+    border-radius: 10px;
+    font-size: 50px;
+}
+.botao_principal:hover{
+    background: black;
+    color: white;
+    font-size: 75px;
+    text-align: center;
+
+}
+.lenda{
+    width: 400px;
+    height: 85px;
+    background: white;
+    opacity: 0.7;
+    border-radius: 20px;
+}
+.textoinicial{
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    margin: -50px 0 0 -200px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 15px;
+}
+/*rodape*/
+.rodape{
+    width: 100%;
+    background: white;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}

@@ -1,0 +1,343 @@
+/*ESCOLHA ANDERSON SILVA 1*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box 0;
+}
+
+.anderson1_body{
+    background-image: url("./imagensAnderson/fundoAnderson.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center ;
+    width: 100%;
+    height: 100vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.anderson1_main{
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+}
+.anderson1_tituloprincipal {
+    background: white;
+    border-radius: 10px;
+    opacity: 0.7;
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.anderson1_paragrafo{
+    background: white;
+    border-radius: 10px;
+    opacity: 0.7;
+    font-size: 25px;
+    text-align: center;
+    width: 50%;
+}
+.anderson1_escolhas li{
+    background: white;
+    border-radius: 10px;
+    opacity: 0.8;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 10px 0 10px 0;
+    padding: 10px;
+    text-align: center;
+}
+.anderson1_button{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    
+}
+.anderson1_button:active{
+    background: chartreuse;
+}
+.anderson1_button:hover{
+    font-size: 35px;
+}
+
+/*PAGINA GAME OVER ANDERSON SILVA 1 */
+.gamerover1_boy{
+    background-image: url("./imagensAnderson/fundogameover1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center ;
+    width: 100%;
+    height: 100vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.titulogameover{
+    background: white;
+    opacity: 0.7;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 200px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.gameover1_paragrafo{
+    background:black;
+    opacity: 0.7;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    width: 50%;
+}
+.botaovoltarinicio{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
+    box-shadow: 3px 4px 2px #000000;
+}
+a{
+    text-decoration: none;
+}
+/*ESCOLHA ANDERSON SILVA 2*/
+
+.anderson2_body{
+    background-image: url("./imagensAnderson/fundoescolha2andersonsilva.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center ;
+    width: 100%;
+    height: 100vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.anderson2_main{
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.anderson2_tituloprincipal {
+    background: white;
+    border-radius: 10px;
+    opacity: 0.7;
+    font-size: 33px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.anderson2_paragrafo{
+    background: white;
+    border-radius: 10px;
+    opacity: 0.7;
+    font-size: 25px;
+    padding: 10px 5px 10px 5px;
+    text-align: center;
+    width: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.anderson2_escolhas li{
+    background: white;
+    border-radius: 10px;
+    opacity: 0.8;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 8px 0 8px 0;
+    padding: 5px;
+    text-align: center;
+}
+.anderson2_button{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    
+}
+.anderson2_button:active{
+    background: chartreuse;
+}
+.anderson2_button:hover{
+    font-size: 35px;
+}
+/* FUNDO GAME OVER ANDERSON SILVA 2*/
+.gamerover2_boy{
+    background-image: url("./imagensAnderson/agameover2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    width: 100%;
+    height: 100vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+/*ESCOLHA ANDERSON SILVA 3*/
+
+.anderson3_body{
+    background-image: url("./imagensAnderson/fundoAnderson3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center ;
+    width: 100%;
+    height: 100vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.anderson3_main{
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.anderson3_tituloprincipal{
+    background: white;
+    border-radius: 10px;
+    opacity: 0.7;
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 15px;
+    margin: 30px;
+}
+.rsequencia{
+    font-size: 10px;
+    color: thistle;
+}
+.anderson3_paragrafo{
+    background: white;
+    border-radius: 10px;
+    opacity: 0.7;
+    font-size: 20px;
+    padding: 10px 5px 10px 5px;
+    text-align: center;
+    width: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.anderson3_escolhas li{
+    background: white;
+    border-radius: 10px;
+    opacity: 0.8;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 8px 0 8px 0;
+    padding: 5px;
+    text-align: center;
+}
+/* GAME OVER 3 ANDERSON */
+.gamerover3_boy{
+    background-image: url("./imagensAnderson/gameover.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center ;
+    width: 100%;
+    height: 100vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+/* VITORIA */
+.anderson4_body{
+    width: 100%;
+    height: 100vh;
+    display:flex;
+    background-image: url("./imagensAnderson/fundoVitoria.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center ;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.anderson4_main{
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.anderson4_tituloprincipal {
+    background: white;
+    border-radius: 10px;
+    opacity: 0.7;
+    padding-top: 12px;
+    font-size: 100px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+   
+}
+.anderson4_paragrafo{
+    background: white;
+    border-radius: 10px;
+    opacity: 0.7;
+    font-size: 30px;
+    text-align: center;
+    width: 50%;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.vitoria{
+    background: white;
+    border-radius: 10px;
+    opacity: 0.7;
+    font-size: 20px;
+    text-align: center;
+    width: 50%;
+    font-weight: bold;
+    text-transform: uppercase;
+
+}
+.anderson4_button{
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: bold;
+    
+}
+.anderson4_button:active{
+    background: chartreuse;
+}
+.anderson4_button:hover{
+    font-size: 35px;
+}
+.vitoria{
+    background: white;
+    opacity: 0.7;
+
+}
+/*rodape*/
+.rodape{
+    width: 100%;
+    background: white;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+}
