@@ -30,3 +30,19 @@ function jon1_2() {
 	  }
 	}
   }
+// TERCEIRA FUNÇÃO JON
+function jon3_3() {
+	while (pergunta1 != 1 || pergunta1 != 2) {
+	  var pergunta1 = prompt("Digite 1 para Lutar em Pé\n 2 Para Lutar no Chão");
+  
+	  if (pergunta1 == 1) {
+		window.location.href = "jon4_4.html";
+		break;
+	  } else if (pergunta1 == 2) {
+		window.location.href = "gameOverJon3.html";
+		break;
+	  } else {
+		alert("Digite 1 ou 2");
+	  }
+	}
+  }
