@@ -23,7 +23,7 @@ function jon1_2() {
 		window.location.href = "gameOverJon2.html";
 		break;
 	  } else if (pergunta1 == 2) {
-		window.location.href = "jon2_3.html";
+		window.location.href = "jon3_3.html";
 		break;
 	  } else {
 		alert("Digite 1 ou 2");
