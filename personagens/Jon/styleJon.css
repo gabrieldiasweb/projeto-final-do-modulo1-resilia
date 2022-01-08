@@ -5,7 +5,7 @@
 }
 /*PAGINA DE ESCOLHAS JON */
 .jon_body{
-    background-image: url("/personagens/andersonSilva/imagensAnderson/fundoAnderson.jpg");
+    background-image: url("./fundoJon.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position:center ;
@@ -72,7 +72,7 @@ a{
 
 /*PAGINA GAME OVER JON  */
 .gameroverjon_body{
-    background-image: url("/personagens/Jon/gameOverJon.jpg");
+    background-image: url("./gameOverJon.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position:center ;
