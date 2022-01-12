@@ -1,20 +1,12 @@
 ## PROJETO FINAL DO DOMUDO 1 - RESILIA 💛
 
-You can use the [editor on GitHub](https://github.com/gabrieldiasweb/projeto-final-do-modulo1-resilia/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
 Fala Galerinha, esse é meu projeto do final do modulo 1 da resilia, nele eu utilizei todos os conteudos que aprendi durante o primeiro modulo do curso.
 Foi um grande desafio, eu ameia e espero que vocês gostem desse joguinho!
 
 ```Tela inicial do game
 
 
-# Header 1
-## Header 2
-### Header 3
+w
 
 - Bulleted
 - List
