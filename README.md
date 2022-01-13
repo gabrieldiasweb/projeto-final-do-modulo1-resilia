@@ -1,4 +1,4 @@
-## PROJETO FINAL DO DOMUDO 1 - RESILIA 💛
+## PROJETO FINAL DO MODULO 1 - RESILIA 💛
 
 Fala Galerinha, esse é meu projeto do final do modulo 1 da resilia, nele eu utilizei todos os conteudos que aprendi durante o primeiro modulo do curso.
 Foi um grande desafio, eu ameia e espero que vocês gostem desse joguinho!
